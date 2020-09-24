@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Clauber Iankoski! 👋
+I'm actually studying Computer Science at PUCRS
+🌱 I’m currently learning Java!
 
 <!--
 **clauberiankoski/clauberiankoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
