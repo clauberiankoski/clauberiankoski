@@ -1,5 +1,6 @@
 ### Hi there, I'm Clauber Iankoski! 👋
 I'm actually studying Computer Science at PUCRS
+
 🌱 I’m currently learning Java!
 
 <!--
